@@ -1,1 +1,1 @@
-# Intelligent-Structural-Monitoring-and-Response-Bridge-System
+# The objective of this project was to design and implement an intelligent system that can continuously monitor the structural stability of a bridge and automatically respond to hazardous conditions using sensors, controllers, and actuators.
